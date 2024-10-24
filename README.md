@@ -5,8 +5,7 @@ Domains: Web Developement
 Duration: October to November 2024
 Mentor: Neela Santhosh
 
-Key Features
-Task Addition:
+OVERVIEW OF THE PROJECT :
 
 Users can input new tasks and add them to the list.
 Option to add tasks via button click or keyboard shortcut (e.g., pressing "Enter").
@@ -54,6 +53,7 @@ Professional Use:
 
 Project management, tracking deadlines, or managing team tasks in a workplace.
 
+OVERVIEW OF THE PROJECT:
 
 A Weather Forecast App is designed to provide users with real-time weather information for specific locations. It typically utilizes data from weather APIs to deliver accurate forecasts. Here’s an overview of its key features, functionalities, and benefits:
 
